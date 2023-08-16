@@ -1,1 +1,2 @@
 # DiabetesPredictor
+This repository houses all files used in the analysis and prediction of the Female Pima Native American population. Contained is the csv file from which the data was collected. Additionally, a Jupyter Notebook file contains all code and comments used in analyzing the health data and creating Decision Tree, Logistic Regression, and Random Forest models for classifying the population as diabetic or non-diabetic.
